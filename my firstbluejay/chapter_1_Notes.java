@@ -53,5 +53,7 @@ public class chapter_1_Notes
          String word = new String("Kevin Hayes");
          Integer number = new Integer(47);
          Double number2 = new Double(34.5);
+         
+         int _num = 9;
     }
 }
